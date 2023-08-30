@@ -1,4 +1,13 @@
-<h1> Javascript is easy.... Sort of </h1>
+---
+layout: essay
+type: essay
+title: "Javascript is easy.... Sort of"
+# All dates must be YYYY-MM-DD format!
+date: 2023-08-29
+published: true
+labels:
+  - JavaScript
+---
 
 I am someone who hasn't had a lot of experience with writing javascript, or at least, does not remember a lot about what I had learned. At the very least, compared to my previous semester learning C language, it seems very similar in structure and how things are written. Javascript as a language is really easy to learn, and is straightforward, somewhat unlike some other languages...kind of like an easier C. Although I haven't enocuntered anything like pointers yet, there were new techniques to use, like case switch, or things like classes and objects that I had learned previously. I mean, with only some feigning knowledge of C,C++, HTML, and Python, there are bound to be similar things. 
 
