@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BankRecordsExample.png
+image: img/BankSquare.png
 title: "Meteor"
 date: 2022
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A C++ code collection meant for recording people's information."
 ---
 
-<img class="img-fluid" src="../img/BankSquare.png">
+<img class="img-fluid" src="../img/BankRecordsExample.png">
 
 <hr>
 This project is the final result of a semester of learning C and C++. It is a project that challenged us to use objects and reading information from other files to securely store the information of the "Bank Customer" inside. It takes a account number and address for specific people and stores all the records in order of number.
