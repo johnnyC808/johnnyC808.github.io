@@ -40,19 +40,6 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
   "volunteer": [
     {
       "organization": "Be Ready Manoa",
@@ -75,14 +62,6 @@
       "highlights": [
         "Greeted and directed customers to requests for information"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
