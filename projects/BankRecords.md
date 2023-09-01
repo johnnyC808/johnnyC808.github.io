@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/BankSquare.png
-title: "Meteor"
+title: "Information Database"
 date: 2022
 published: true
 labels:
