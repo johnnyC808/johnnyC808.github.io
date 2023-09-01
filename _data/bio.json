@@ -2,15 +2,15 @@
   "basics": {
     "name": "Johnathan Callejo",
     "label": "Student",
-    "picture": "https://github.com/FrigusStella.png",
+    "picture": "https://github.com/johnnyC808.png",
     "email": "callejo8@hawaii.edu",
     "phone": "808-286-3303",
-    "website": "https://FrigusStella.github.io",
+    "website": "https://johnnyC808.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "FrigusStella", "url": "http://github.com/FrigusStella" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "johnnyC808", "url": "http://github.com/johnnyC808" },
+      { "network": "linkedin", "username": "johnathanC808", "url": "http://linkedin.com/in/johnathanC808" },
       { "network": "instagram", "username": "aestir_", "url": "http://instagram.com/aestir_" }
     ]
   },
