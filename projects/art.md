@@ -10,7 +10,7 @@ labels:
 summary: "An art block...literally."
 ---
 
-<img class="img-fluid" src="../img/yugioh.jpg">
+<img class="img-fluid" src="../img/yugiohblock.jpg">
 
 <hr>
 Get it? But for real, this is a block of old yugioh cards that were left unused and unwanted for the longest time in storage. While it may not be the most interesting thing, crafting something at least visually appealing from something collecting dust has always seemed fun, and this is my first one. Although, this is still in progress because I plan to make it life size... this is just one of the tens of smaller cubes I have.
