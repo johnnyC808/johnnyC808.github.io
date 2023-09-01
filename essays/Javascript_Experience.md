@@ -10,7 +10,7 @@ labels:
 ---
 
 I am someone who hasn't had a lot of experience with writing javascript, or at least, does not remember a lot about what I had learned. At the very least, compared to my previous semester learning C language, it seems very similar in structure and how things are written. Javascript as a language is really easy to learn, and is straightforward, somewhat unlike some other languages...kind of like an easier C. Although I haven't enocuntered anything like pointers yet, there were new techniques to use, like case switch, or things like classes and objects that I had learned previously. I mean, with only some feigning knowledge of C,C++, HTML, and Python, there are bound to be similar things. 
-<br>
+<h3>Language</h3>
 Javascript as a language is a good language to learn in my perspective. At least from what I believe, learning it was very simple and easy going, so it would be a good introduction language. According to chat GPT and a few google searches, javascript is good to use for web development and is apparently a very popular language. This also must mean that there is some ease of use compared to other languages, and must have a multitude of things it can be used for.
-<br>
+<h3>Coursework</h3>
 So far in my first semester of ICS 314, there are practice WOD's that we use to prepare for timed coding tests of a sort. These tests are very useful to working under pressure, especially on a language I have less knowledge on. Practicing small exersises are really good when learning a new language. This style of learning isn't my favorite just because of the stress, but it does seem at least to be working. I think, in the end, I will be able to learn a lot and pass this class.
