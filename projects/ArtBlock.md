@@ -7,7 +7,7 @@ date: 2023
 published: true
 labels:
   - Art
-summary: "An in-progress "art" piece... a block."
+summary: "An art block...literally."
 ---
 
 <img class="img-fluid" src="../img/ArtBlock.png">
