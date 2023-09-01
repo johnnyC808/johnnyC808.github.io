@@ -8,12 +8,10 @@ published: true
 labels:
   - GitHub
   - Javascript
-summary: "A basic bullet dodge game made in 1 day for a High School project."
+summary: "Meteors is a simple, bullet dodge game... from meteors"
 ---
 
 <img class="img-fluid" src="../img/MeteorGameStart.png">
-
-Meteor is a simple, bullet dodge game.
 
 <hr>
 Meteor is a very simplified game where there is a goal to collect as many coins as possible whilst dodging the falling meteors. Coins appear as small yellow dots, while the player is a blue dot. The game takes in use gravity mechanics and basic jumping. This all takes place in the middle of a "meteor shower", where falling red balls of varrying sizes try to hit and kill the player. Collecting coins contributes to the score.. can you beat my score of 65?
