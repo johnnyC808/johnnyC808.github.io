@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/MeteorGame.png
 title: "Meteor"
 date: 2019
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A basic bullet dodge game made in 1 day for a High School project."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/MeteorGameStart.png">
 
 Meteor is a simple, bullet dodge game.
 
