@@ -6,7 +6,6 @@ title: "A Question For The Ease Of Eyes"
 date: 2023-09-06
 published: true
 labels:
-  -Coding,
   -Software Development
 ---
 <h3>Good Questions</h3>
