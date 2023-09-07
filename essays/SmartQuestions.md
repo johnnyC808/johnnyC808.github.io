@@ -6,7 +6,7 @@ title: "A Question For The Ease Of Eyes"
 date: 2023-09-06
 published: true
 labels:
-  -Software Development
+  - Software Development
 ---
 <h3>Good Questions</h3>
 What would constitute as a "Good Question"? According to author Eric Raymond in his essay, "How To Ask Questions The Smart Way", he points out how to formulate a good question in order to prompt a good and useful answer. For example, the question posed by StackOverflow user bcasp, "Which equals operator (== vs ===) should be used in JavaScript comparisons?". This question poses to a user an open ended question asking for specifics. In the description of their question, they provide an example of their code and ask if there is a benefit to using the '===' instead of '==', which their text editor sugguests using throughout their code. Their question is straight to the point and is easy to reply to. The answers to the question were straightforward and explanatory, because the question was formulated in a way they could answer. This example of a "good question" can be found [here](https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons).
