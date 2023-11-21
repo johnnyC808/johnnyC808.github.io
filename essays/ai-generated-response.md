@@ -8,6 +8,7 @@ published: true
 labels:
   - AI
 ---
+![](img/AI.png)
 <h3>Introduction</h3>
 AI generated content is used amongst a wide arange of things, and in education, students use it to complete their homework or to answer a question they can not figure out themselves. AI has the purpose to provide people with easy access information on topics of their choice in the blink of an eye.In specifically a field like Software Engineering, it is very useful for completing code, and can generate ready to use code for projects.
 <h2>Personal Experience with AI</h2>
