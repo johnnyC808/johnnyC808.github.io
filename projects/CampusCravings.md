@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/food.jpg
+image: img/food.png
 title: "Campus Cravings"
 date: 2023
 published: true
