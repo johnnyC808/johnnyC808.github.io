@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/artsquare.png
+image: img/food.jpg
 title: "Campus Cravings"
 date: 2023
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "A website for finding your preferred foods on UH Manoa Campus"
 ---
 
-<img class="img-fluid" src="../img/yugiohblock.png">
+<img class="img-fluid" src="../img/M2-landing-page.png">
 
 <hr>
 <h3>Overview</h3>
