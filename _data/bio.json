@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Johnathan Callejo",
+    "label": "Student",
+    "picture": "https://github.com/johnnyC808.png",
+    "email": "callejo8@hawaii.edu",
+    "phone": "808-286-3303",
+    "website": "https://johnnyC808.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "johnnyC808", "url": "http://github.com/johnnyC808" },
+      { "network": "linkedin", "username": "johnathanC808", "url": "http://linkedin.com/in/johnathanC808" },
+      { "network": "instagram", "username": "aestir_", "url": "http://instagram.com/aestir_" }
+    ]
+  },
+  "interests": [
+    { "name": "Interactive media" },
+    { "name": "Cyber Security" },
+    { "name": "Game Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present"
+    }
+  ],
+  "Work Experience": [
+    {
+      "organization": "Sushi Que",
+      "position": "Dish Washer",
+      "startDate": "2023-11-01",
+      "endDate": "present",
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Be Ready Manoa",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2016-07-01",
+      "endDate": "present",
+      "summary": "Helps out with community service projects or CERT training.",
+      "highlights": [
+        "Restoration of house after flooding."
+      ]
+    },
+     {
+      "organization": "Toy Show Expo",
+      "website": "",
+      "position": "Cashier",
+      "startDate": "2019-06-01",
+      "endDate": "2023-6-01",
+      "summary": "Front desk cashier for entry into venue.",
+      "highlights": [
+        "Greeted and directed customers to requests for information"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
