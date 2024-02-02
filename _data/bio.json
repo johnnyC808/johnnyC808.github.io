@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML"]
     },
     {
       "name": "Toolsets/OS",
@@ -36,6 +36,14 @@
       "studyType": "B.S.",
       "startDate": "2021-09-01",
       "endDate": "Present"
+    }
+  ],
+  "Work Experience": [
+    {
+      "organization": "Sushi Que",
+      "position": "Dish Washer",
+      "startDate": "2023-11-01",
+      "endDate": "present",
     }
   ],
   "volunteer": [
